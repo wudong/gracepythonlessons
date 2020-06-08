@@ -5,7 +5,7 @@ goldiloks = turtle.Pen()
 goldiloks.shape("turtle")
 goldiloks.width(3)
 goldiloks.speed(0)
-colorlist = ["yellow","red","blue","green","orange","purple","pink","aqua"]
+colorlist = ["yellow","red","blue","purple","pink","turquoise","aqua"]
 def square(size):
     for i in range(4):
         goldiloks.forward(size)

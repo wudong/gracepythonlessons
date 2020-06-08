@@ -1,7 +1,7 @@
 import turtle
 
 goldiloks = turtle.Pen()
-goldiloks.color("black")
+goldiloks.color("red")
 goldiloks.shape("turtle")
 goldiloks.speed(0)
 for i in range(360):
